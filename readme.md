@@ -28,3 +28,12 @@ http://www.webizly.com/BasicWebPack/
 Based on this tutorial:
 
 https://medium.com/@rahulguptalive/create-crud-apis-in-nodejs-express-and-mysql-abda4dfc2d6
+
+*Get Tokyo from the database*
+![img.png](src/screenshots/screenshot1.png)
+
+*Add new city called Tokyo-duplicate to the database*
+![img.png](src/screenshots/screenshot2.png)
+
+*Delete Tokyo-duplicate from the database*
+![img.png](src/screenshots/screenshot3.png)
